@@ -1,3 +1,14 @@
+## Kognic fork
+change version in readme file
+`run python -m build`
+`twine upload dist/kognic_segment_anything-1.0.0-py3-none-any.whl --repository-url=https://us-east4-python.pkg.dev/annotell-com/python-default-us`
+
+
+
+
+
+
+
 ## Latest updates -- SAM 2: Segment Anything in Images and Videos
 
 Please check out our new release on [**Segment Anything Model 2 (SAM 2)**](https://github.com/facebookresearch/segment-anything-2).

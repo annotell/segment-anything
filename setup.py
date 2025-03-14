@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="kognic-segment-anything",
-    version="1.0",
+    version="1.0.0",
     install_requires=[],
     packages=find_packages(exclude="notebooks"),
     extras_require={
