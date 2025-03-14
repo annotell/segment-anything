@@ -1,7 +1,8 @@
 ## Kognic fork
-change version in readme file
-`run python -m build`
-`twine upload dist/kognic_segment_anything-1.0.0-py3-none-any.whl --repository-url=https://us-east4-python.pkg.dev/annotell-com/python-default-us`
+Offical repo has no published version, so let's create one and publish it in our private repo with a kognic prefix.   
+1. change version in readme file
+2. `run python -m build`
+3. `twine upload dist/kognic_segment_anything-1.0.0-py3-none-any.whl --repository-url=https://us-east4-python.pkg.dev/annotell-com/python-default-us`
 
 
 
